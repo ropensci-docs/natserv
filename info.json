@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "72acf2e1fb2401da30d15f530628a229d582e8ae",
+    "author": "Scott Chamberlain <sckott@fastmail.com>",
+    "time": "2021-05-04 23:00:45",
+    "files": 2,
+    "merge": false,
+    "message": "update license years\n"
+  },
+  "remote": "https://github.com/ropensci/natserv",
+  "pkg": "natserv"
+}

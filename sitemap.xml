@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://docs.ropensci.org/natserv/index.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/natserv/reference/nat_states.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/natserv/reference/natserv-package.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/natserv/reference/ns_altid.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/natserv/reference/ns_ecohier.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/natserv/reference/ns_export.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/natserv/reference/ns_id.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/natserv/reference/ns_search_comb.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/natserv/reference/ns_search_eco.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/natserv/reference/ns_search_spp.html</loc>
+  </url>
+  <url>
+    <loc>https://docs.ropensci.org/natserv/articles/natserv.html</loc>
+  </url>
+</urlset>
