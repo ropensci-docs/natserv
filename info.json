@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "bf609081323c88e6a7e036bb8bbdd262b825effb",
+    "author": "Christopher Tracey <christopher_tracey@natureserve.org>",
+    "time": "2024-01-28 15:29:43",
+    "files": 1,
+    "merge": false,
+    "message": "Update DESCRIPTION"
+  },
+  "repo": "https://github.com/ropensci/natserv",
+  "pkg": "natserv"
+}
