@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "6e46addf9f51bf34388595ac4227337db3cf53f2",
+    "author": "Christopher Tracey <christopher_tracey@natureserve.org>",
+    "time": "2026-08-06T18:03:37Z",
+    "files": 14,
+    "merge": true,
+    "message": "Merge pull request #34 from ChristopherTracey/fix/unarchive-phase1\n\nPhase 1: restore vignette build, README, and modernize CI (unarchival prep)"
+  },
+  "repo": "https://github.com/ropensci/natserv",
+  "pkg": "natserv",
+  "time": "2026-09-06T08:35:09Z"
+}
